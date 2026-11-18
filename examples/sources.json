@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P001",
+    "title": "An example study of a browser-based model viewer for building projects",
+    "authors": ["Example, Alice", "Sample, Bob", "Demo, Carla"],
+    "year": 2021,
+    "venue": "Journal of Example Studies",
+    "volume": "12",
+    "issue": "3",
+    "pages": "101-118",
+    "doi": "10.0000/example.2021.001"
+  },
+  {
+    "id": "P002",
+    "title": "A second example paper on cloud services for site monitoring",
+    "authors": "Placeholder, Dana; Mock, Evan",
+    "year": 2023,
+    "venue": "Example Engineering Letters",
+    "doi": "10.0000/example.2023.002"
+  },
+  {
+    "id": "S0001",
+    "title": "A cited work that is only known from another paper's reference list",
+    "authors": ["Older, Frank"],
+    "year": 2015,
+    "venue": "Proceedings of an Example Conference",
+    "type": "paper-conference"
+  }
+]
